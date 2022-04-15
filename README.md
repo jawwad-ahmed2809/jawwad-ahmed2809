@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jawwad-ahmed2809
+- 👀 I’m interested in learning and developing clean and concise data management practices
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on Intermediete Projects to understand the practical application of python and SQL
