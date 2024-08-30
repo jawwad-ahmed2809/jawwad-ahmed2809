@@ -16,9 +16,11 @@ Improved product adoption by 25% (I speak fluent Human and Machine)
 🛠️ Cool stuff I've built:
 
 Taught AI to read Adidas sales data (it now knows more about sneakers than I do)
+
 Built a digital psychic for incident management (it's right 60% of the time, every time)
+
 Trained a CNN to classify images (it can now tell cats from dogs, working on differentiating pizzas from frisbees)
 
 📫 Let's connect!
-LinkedIn | jawwadahmed2809@gmail.com
+jawwadahmed2809@gmail.com
 P.S. If you've read this far, you legally owe me a coffee ☕️
